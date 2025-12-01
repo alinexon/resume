@@ -6,7 +6,7 @@ A simple responsive frontend application with a login page (hardcoded credential
 
 ## 🚀 Live Demo
 
-## https://resume-md7h7vsgx-malis-projects-53e11ad7.vercel.app/login
+## https://resume-beta-hazel-29.vercel.app
 
 ## 🔐 Hardcoded Login Credentials
 
