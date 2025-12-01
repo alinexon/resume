@@ -1,0 +1,128 @@
+{
+  "personalInfo": {
+    "name": "Ali Nexon",
+    "title": "Front-end Developer",
+    "email": "alinexon55@example.com",
+    "phone": "00764168628",
+    "location": "Kabul, Afghanistan",
+    "summary": "Passionate frontend developer specializing in Next.js, React, and TypeScript. Experienced in building responsive web applications, admin panels, and cross-platform mobile apps. Strong focus on performance optimization, code quality, and user experience."
+  },
+  "skills": [
+    {
+      "category": "Frontend",
+      "items": [
+        "React",
+        "Next.js",
+        "TypeScript",
+        "JavaScript",
+        "HTML5",
+        "CSS3",
+        "Tailwind CSS"
+      ]
+    },
+    {
+      "category": "Tools & Libraries",
+      "items": ["Git", "GitHub", "React Testing Library", "Figma", "VS Code"]
+    },
+    {
+      "category": "Backend & Others",
+      "items": ["Node.js", "Nest.js", "MongoDB", "PostgreSql"]
+    }
+  ],
+  "experience": [
+    {
+      "id": "exp1",
+      "company": "Ayda Tech Company",
+      "role": "Front-end Developer (Remote)",
+      "location": "Remote",
+      "startDate": "2025-04",
+      "endDate": "present",
+      "description": "Developing admin panel for job portal using Next.js and TypeScript, implementing job post management and user verification systems.",
+      "achievements": [
+        "Developing admin panel for job portal using Next.js and TypeScript",
+        "Implementing job post management and user verification systems",
+        "Building analytics dashboards with Chart.js and D3.js",
+        "Maintaining 98% code coverage with Jest unit tests"
+      ],
+      "technologies": ["Next.js", "TypeScript", "React", "Tailwind CSS"],
+      "imageUrl": "/images/experience1.png"
+    },
+    {
+      "id": "exp2",
+      "company": "Freelance Projects",
+      "role": "Front-end Developer",
+      "location": "Remote",
+      "startDate": "2023-01",
+      "endDate": "2025-03",
+      "description": "Built multiple responsive applications with Next.js/React, improving user engagement and performance across client projects.",
+      "achievements": [
+        "Built 12+ responsive applications with Next.js/React",
+        "Improved user engagement by 40% through UI optimizations",
+        "Reduced page load times by 35% via performance tuning",
+        "Implemented CI/CD pipelines for 8 client projects"
+      ],
+      "technologies": ["Next.js", "React", "TypeScript", "Tailwind CSS"],
+      "imageUrl": "/images/experience2.png"
+    },
+    {
+      "id": "exp3",
+      "company": "Tech Solutions",
+      "role": "Junior Web Developer",
+      "location": "Kabul, Afghanistan",
+      "startDate": "2022-06",
+      "endDate": "2022-12",
+      "description": "Developed responsive UIs for multiple projects using Tailwind CSS, collaborating with senior developers on component libraries.",
+      "achievements": [
+        "Developed responsive UIs for 5+ projects using Tailwind CSS",
+        "Reduced styling implementation time by 50%",
+        "Collaborated on component library with senior developers",
+        "Improved Lighthouse scores by 30% across projects"
+      ],
+      "technologies": ["React", "Tailwind CSS", "JavaScript", "HTML5", "CSS3"],
+      "imageUrl": "/images/experience3.png"
+    }
+  ],
+  "education": [
+    {
+      "institution": "Kabul Polytechnic University",
+      "degree": "Bachelor's Degree in Computer Science",
+      "location": "Kabul, Afghanistan",
+      "startDate": "2022-08",
+      "endDate": "2026-11",
+      "description": "Specializing in Next.js, React, and TypeScript for modern web development. Developing cloud computing solutions and data warehouse architectures. Building cross-platform mobile applications with React Native. Expected graduation: November 2026 (Final year).",
+      "imageUrl": "/images/kpu-logo.png"
+    },
+    {
+      "institution": "Edu Light Center",
+      "degree": "Technical English Program",
+      "location": "Kabul, Afghanistan",
+      "startDate": "2022-02",
+      "endDate": "2024-03",
+      "description": "Achieved B2 proficiency certification in technical English. Specialized in IT documentation and developer communication. Trained in technical writing for software documentation.",
+      "imageUrl": "/images/eng-cert.png"
+    },
+    {
+      "institution": "Baheyee High School",
+      "degree": "Science Diploma (Honors)",
+      "location": "Kabul, Afghanistan",
+      "startDate": "2009-03",
+      "endDate": "2021-11",
+      "description": "Completed advanced STEM curriculum with honors. Focus on computational mathematics and physics fundamentals. Early foundation in computer science principles.",
+      "imageUrl": "/images/school-cert.png"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Job Portal Admin Panel",
+      "description": "Full-featured admin panel for job portal with analytics dashboards",
+      "technologies": ["Next.js", "TypeScript", "Chart.js", "D3.js"],
+      "link": "https://github.com/yourusername/job-portal"
+    },
+    {
+      "name": "E-Commerce Platform",
+      "description": "Responsive e-commerce solution with payment integration",
+      "technologies": ["React", "Node.js", "MongoDB", "Stripe API"],
+      "link": "https://github.com/yourusername/ecommerce"
+    }
+  ]
+}
